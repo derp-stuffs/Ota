@@ -1,10 +1,11 @@
-Device Changelog:
+Changelog:
 ====================
-  07-05-2024
+  08-05-2024
 ====================
 - updated kernel
+- fixed refresh rate info in settings
+- added wireguard support
 - audio improvements
+- added ota update support
+- set volume step to 30 
 - Misc improvements
-
-Rom Changelog:
--added ota support
