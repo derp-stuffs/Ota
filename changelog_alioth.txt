@@ -2,10 +2,12 @@ Changelog:
 ====================
   08-05-2024
 ====================
-- updated kernel
-- fixed refresh rate info in settings
-- added wireguard support
-- audio improvements
-- added ota update support
-- set volume step to 30 
-- Misc improvements
+- Added refresh rate control in Display settings
+- Audio improvements
+- Added OTA update support
+- Set volume step to 30 
+- Kernel: Enable WireGuard Kernel-Side Support
+- IMS: Disable IMS debugging in props
+- VNDK: Import VNDK 34 to compile out also
+- CarrierConfig: Enable voLTE/voWIFI/ViLTE for Sri Lankan Networks
+- CarrierConfig: Update configurations for Lifecell Ukraine
