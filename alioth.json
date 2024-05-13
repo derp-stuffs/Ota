@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": 1715060776,
-      "filename": "DerpFest-14-Fan-Edition-Stable-alioth-20240507.zip",
-      "id": "e4744ef9f7fc644f7ffed6f66512286f00d28d41d2e4b34843d0bc1a441bf26c",
+      "datetime": 1715583565,
+      "filename": "DerpFest-14-Fan-Edition-Stable-alioth-20240513.zip",
+      "id": "dd05add64a2de5feea6cc31bd4645b9697ccce52f85ddefe58ba736ed31998e9",
       "romtype": "Fan-Edition",
-      "size": 2030606314,
-      "url": "https://td1.errorv1.workers.dev/0:/DerpFest-14-Fan-Edition-Stable-alioth-20240507.zip",
+      "size": 2096525837,
+      "url": "https://sourceforge.net/projects/alioth-rom/files/derpfest/DerpFest-14-Fan-Edition-Stable-alioth-20240513.zip/download",
       "version": "14"
     }
   ]
